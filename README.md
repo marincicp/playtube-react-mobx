@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+
+LIVE: https://petar-marincic-playtube-react-mobx.netlify.app/
+
+
+This project is a video and music streaming web application built with React, Tailwind CSS, and Mobx as the state manager. Users can search for and play videos, visit channel pages, and read video comments. This project was a great opportunity to practice different fetch requests, and to practice routing, the useParams hook is used to retrieve specific video and channel data.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
